@@ -15,7 +15,7 @@ const Nav = () => {
     <Box bgColor="gray.800" p="2rem">
       <Flex alignItems={'center'} justifyContent={'space-between'}>
         <Text fontWeight={800} color="white">
-          KALBE Online Shop | Test Commit
+          KALBE Online Shop
         </Text>
 
         <Flex alignItems={'center'}>
